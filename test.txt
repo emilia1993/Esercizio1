@@ -1,3 +1,4 @@
 "Prima versione del file" 
 "Seconda modifica al file" 
 "Terza modifica al file" 
+"Modifica nel branch fastForward" 
