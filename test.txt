@@ -1,7 +1,1 @@
-"Prima versione del file" 
-"Seconda modifica al file" 
-"Terza modifica al file" 
-"Modifica nel branch fastForward" 
-"Modifica fatta su master" 
-"Modifica nel branch recursiveBranch" 
-
+'"Modifica nel branch conflictBranch"' 
