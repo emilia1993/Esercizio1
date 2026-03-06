@@ -1,1 +1,2 @@
 '"Modifica nel branch conflictBranch"' 
+"Nuova modifica su GitHubBranch" 
